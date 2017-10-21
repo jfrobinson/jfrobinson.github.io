@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>The Robinson Lab | Welcome</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <id>http://localhost:4000</id>
+ <updated>2017-10-21T15:13:15-07:00</updated>
+ <author>
+   <name>The Review Index</name>
+   <uri>https://thereviewindex.com</uri>
+   <email>dyutibarma@gmail.com</email>
+ </author>
+
+ 
+
+ <entry>
+   <title>The site is created.</title>
+   <link href="http://localhost:4000/we-live"/>
+   <id>http://localhost:4000/we-live</id>
+   <updated>2017-10-21T00:00:00-07:00</updated>
+   <content type="html">&lt;p&gt;The website is created. Hoo-rah.&lt;/p&gt;
+</content>
+ </entry>
+
+ 
+
+</feed>
