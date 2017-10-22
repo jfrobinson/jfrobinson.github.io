@@ -3,9 +3,9 @@ title: The Robinson Lab | Welcome
 description: "Robinson Lab Website"
 url: "jfrobinson.github.io"
 author:
-  name: "Joshua Robinson"
-  email: "Joshua.Robinson@ucsf.edu"
-  url: "jfrobinson.github.io
+  name:"Joshua Robinson"
+  email:"Joshua.Robinson@ucsf.edu"
+  url:"jfrobinson.github.io
 
 # Build settings
 baseurl: /
