@@ -25,7 +25,7 @@ Not until we get funding. You leech.
 
 ## Cool website. How'd you do it?
 
-All credit to [Github](https://github.com/), [Jekyll](https://jekyllrb.com/), the [Monochrome](https://github.com/thereviewindex/monochrome/) template, and keyboard smashing.
+All credit to [Github](https://github.com/), [Jekyll](https://jekyllrb.com/), and keyboard smashing.
 
 
 
