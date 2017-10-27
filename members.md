@@ -14,9 +14,13 @@ I'm Joshua Robinson. I got drafted by the Seattle Seahawks but they couldn't aff
 
 [Google Scholar](scholar.google.com/citations?user=n8Azds4AAAAJ&hl=en)
 
-## Kenisha Williams
+## Kenisha Williams Puckett
 
-I'm Kenisha Williams. I was a talk show host but they couldn't afford my contract and gave it to some lady named Oprah. I do science now. 
+I'm Kenisha Puckett. I was a talk show host but they couldn't afford my contract and gave it to some lady named Oprah. I do science now. 
+
+##Christopher Yan
+
+I'm Christopher Yan. I was drafted by the Golden State Warriors but I made Klay Thompson look bad. I do science now.
 
 ## Hao Chen, PhD
 
