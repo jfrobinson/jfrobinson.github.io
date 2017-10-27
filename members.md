@@ -22,6 +22,10 @@ I'm Kenisha Puckett. I was a talk show host but they couldn't afford my contract
 
 I'm Christopher Yan. I was drafted by the Golden State Warriors but I made Klay Thompson look bad. I do science now.
 
+## Nikita Iyer
+
+I'm Nikita Iyer. I was a guitarist for Green Day but they couldn't afford my contract. I do science now.
+
 ## Hao Chen, PhD
 
 I'm Hao Chen. I once ate a whole pumpkin pie in one sitting. I do science now.
