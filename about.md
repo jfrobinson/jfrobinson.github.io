@@ -8,30 +8,29 @@ During pregnancy, humans are exposed to thousands of unique environmental chemic
 ## Ongoing Research Projects
 
 ### Establishing alternative models for developmental toxicology. 
-We aim to develop relevant alternative models that represent aspects of human pregnancy that can be used to screen and characterize environmental compounds for their ability to induce developmental toxicity. Models currently being used in our laboratory include: 1) a multi-stage human embryonic stem cell model of neurogenesis; 2) a human primary villous cytotrophoblast model of placentation; and 3) a rodent whole embryo culture model of early organogenesis. 
+As alternatives to classical animal testing, we aim to establish relevant models that represent aspects of human pregnancy that can be used to screen and characterize environmental compounds for their ability to induce developmental toxicity. Models currently being developed in our laboratory include: 1) a multi-stage human embryonic stem cell model of neurogenesis; 2) [a human primary villous cytotrophoblast model of placentation](https://www.ncbi.nlm.nih.gov/pubmed/28323933); and 3) a rodent whole embryo culture model of early organogenesis. 
 
 ### Developing strategies to integrate diverse toxicogenomic data. 
-To examine relationships between environemntal chemicals exposures and alerations in development large-scale transcriptomic, epigenomic, and proteomic  as related to the study of environmental chemical exposures and mammalian development. 
+To examine the underlying molecular relationships between environmental chemical exposures and developmental disease, we employ global, transcriptomic, epigenomic, proteomic, metabolomic analyses. These data may be used to help pinpoint specific mechanisms of action, define common modes of toxicity, and    
 
 ### Environmental exposures and placental disease. 
-Utilizing human placental model systems, we are investigating the mechanistic links between environmental exposures and placental disease. In collaborations with Dr. Susan Fisher, 
+Utilizing human placental model systems, we are investigating the mechanistic links between environmental exposures and placental disease. In collaborations with Dr. Susan Fisher's laboratory, we are studying  
 
 ### Human biomarkers of environmental exposures during human pregnancy.
-Molecular and mophological correlates
+We aim to extend our knowledge of relationships discovered in controlled experiments, by evalauting candidate molecular and mophological correlates identified in vitro or in vivo
 
 ### Human xenobiotic metabolism and 
 We 
 
 ## Select Publications
 
-
+[Full list of publications on Pubmed](http://www.ncbi.nlm.nih.gov/sites/myncbi/joshua.robinson.1/bibliography/47846924/public/?sort=date&direction=ascending)
 
 ## Can I Join the Lab?
 
 Not until we get funding. You leech.
 
-## Cool website. How'd you do it?
-
+### Website creation
 All credit to [Github](https://github.com/), [Jekyll](https://jekyllrb.com/), and keyboard smashing.
 
 
