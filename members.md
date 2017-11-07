@@ -7,8 +7,10 @@ description: This page describes our lab members.
 
 ## Joshua Robinson, PhD (Assistant Professor)
 At UCSF, in the Department of Obstetrics, Gynecology & Reproductive Sciences, I lead an independent research program aimed at studying the developmental biological consequences of environmental chemical exposures during early pregnancy and their mechanistic links with placental/developmental disease. I am interested in the application of *in vitro* model systems and genomic-based approaches to evaluate developmental toxicities. I have a broad background in developmental and placental toxicology, environmental health, and genomics. In 2008, I received a Ph.D. in Toxicology at the University of Washington (PI: Dr. Elaine Faustman), where I studied the effects of heavy metal exposures *in utero* during neurulation. I continued my career as a postdoctoral researcher at the National Institute of Public Health and the Environment (RIVM; PI: Dr. Aldert Piersma) and UCSF (PI: Dr. Susan Fisher) where I participated in several projects that employed a range of alternative in vitro models and used next generation genomic-based methodologies, to study the mechanistic links between environmental exposures and developmental toxicity.
-[LinkedIn](https://www.linkedin.com/in/joshuafrobinson); [Google Scholar](scholar.google.com/citations?user=n8Azds4AAAAJ&hl=en)
-##### Contact [Dr. Robinson](joshua.robinson@ucsf.edu); 
+#### [LinkedIn](https://www.linkedin.com/in/joshuafrobinson)
+[Google Scholar](scholar.google.com/citations?user=n8Azds4AAAAJ&hl=en)
+#### Contact [Dr. Robinson](joshua.robinson@ucsf.edu); 
+
 <img src="http://wmespeakers.com/sites/default/files/speakers/Kobe%20Bryant%20Head%20Shot%202017%20%282%29.jpg" align="right">
 
 ## Hao Chen, PhD (Postdoctoral Fellow)
