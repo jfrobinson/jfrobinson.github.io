@@ -3,7 +3,9 @@ layout: page
 title: The Robinson Lab.
 ---
 ## Location
-Our laboratory is located at the University of California, San Francisco (UCSF)
+Our laboratory is located in the [Department of Obstetrics, Gynecology & Reproductive Sciences](https://obgyn.ucsf.edu/) and [Center for Reproductive Sciences](https://obgyn.ucsf.edu/center-reproductive-sciences/welcome-center-reproductive-sciences) at the [University of California, San Francisco (UCSF)](https://www.ucsf.edu/). Our space is positioned on the 16th floor of the East Wing of the Health Sciences building (Parnassus campus).
+src=img "https://www.ucsf.edu/sites/default/files/fields/field_insert_file/landing_page_one/parnassus-buildings.jpg" "align right"
+
 ## Our Research Aims
 During pregnancy, humans are exposed to thousands of unique environmental chemicals with unknown consequences. Our laboratory aims to identify the mechanistic links between environmental exposures *in utero* and developmental disease. To study these relationships, we employ alternative model systems which recapitulate the dynamic components of human embryonic/fetal development, and use a combination of classical molecular, genomic, imaging and *in silico* based approaches. We are currently studying a variety of environmental chemical hazards such as flame retardants, plasticizers, pesticides, fracking compounds, and heavy metals. We anticipate that our research—which coalesces elements of developmental toxicology, genomics, and risk assessment—will lead to the discovery of gene-environment interactions underlying toxicity, and future prevention of specific chemical exposures that occur during human pregnancy.
 
