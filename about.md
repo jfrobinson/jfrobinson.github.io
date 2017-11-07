@@ -11,7 +11,9 @@ During pregnancy, humans are exposed to thousands of unique environmental chemic
 As alternatives to classical animal testing, we aim to establish relevant models that represent aspects of human pregnancy that can be used to screen and characterize environmental compounds for their ability to induce developmental toxicity. Models currently being developed in our laboratory include: 1) [a multi-stage human embryonic stem cell model of neurogenesis](https://www.ncbi.nlm.nih.gov/pubmed/26827931); 2) [a human primary villous cytotrophoblast model of placentation](https://www.ncbi.nlm.nih.gov/pubmed/28323933); and 3) [a rodent whole embryo culture model of early organogenesis](https://www.ncbi.nlm.nih.gov/pubmed/22262562). 
 
 ### Developing strategies to integrate diverse toxicogenomic data. 
-To examine the underlying molecular relationships between environmental chemical exposures and developmental disease, we employ global, transcriptomic, epigenomic, proteomic, metabolomic analyses. These data may be used to help pinpoint specific mechanisms of action, define common modes of toxicity, and    
+To examine the underlying molecular relationships between environmental chemical exposures and developmental disease, we employ global, transcriptomic, epigenomic, proteomic, metabolomic analyses. These data may be used to help pinpoint both common mechanisms of action and define common modes of toxicity   
+
+We are developing approaches to integrate toxicogenomic data to identify 1) candidate biomarkers for toxicological screening for [developmental toxicity](https://www.ncbi.nlm.nih.gov/pubmed/26827931) and 2)  molecular signatures linked with specific chemical exposures, *e.g.*, [methylmercury](https://www.ncbi.nlm.nih.gov/pubmed/21664453), [phthalates](https://www.ncbi.nlm.nih.gov/pubmed/22841773).  
 
 ### Environmental exposures and placental disease. 
 Utilizing human placental model systems, we are investigating the mechanistic links between environmental exposures and placental disease. In collaborations with Dr. Susan Fisher's laboratory, we are studying  
