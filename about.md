@@ -8,7 +8,7 @@ During pregnancy, humans are exposed to thousands of unique environmental chemic
 ## Ongoing Research Projects
 
 ### Establishing alternative models for developmental toxicology. 
-As alternatives to classical animal testing, we aim to establish relevant models that represent aspects of human pregnancy that can be used to screen and characterize environmental compounds for their ability to induce developmental toxicity. Models currently being developed in our laboratory include: 1) a multi-stage human embryonic stem cell model of neurogenesis; 2) [a human primary villous cytotrophoblast model of placentation](https://www.ncbi.nlm.nih.gov/pubmed/28323933); and 3) a rodent whole embryo culture model of early organogenesis. 
+As alternatives to classical animal testing, we aim to establish relevant models that represent aspects of human pregnancy that can be used to screen and characterize environmental compounds for their ability to induce developmental toxicity. Models currently being developed in our laboratory include: 1) [a multi-stage human embryonic stem cell model of neurogenesis](https://www.ncbi.nlm.nih.gov/pubmed/26827931); 2) [a human primary villous cytotrophoblast model of placentation](https://www.ncbi.nlm.nih.gov/pubmed/28323933); and 3) [a rodent whole embryo culture model of early organogenesis](https://www.ncbi.nlm.nih.gov/pubmed/22262562). 
 
 ### Developing strategies to integrate diverse toxicogenomic data. 
 To examine the underlying molecular relationships between environmental chemical exposures and developmental disease, we employ global, transcriptomic, epigenomic, proteomic, metabolomic analyses. These data may be used to help pinpoint specific mechanisms of action, define common modes of toxicity, and    
