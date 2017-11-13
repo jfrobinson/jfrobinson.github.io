@@ -11,7 +11,7 @@ At UCSF, in the Department of Obstetrics, Gynecology & Reproductive Sciences, Dr
 [Google Scholar](scholar.google.com/citations?user=n8Azds4AAAAJ&hl=en)
 #### Contact [Dr. Robinson](joshua.robinson@ucsf.edu); 
 
-<img src="http://wmespeakers.com/sites/default/files/speakers/Kobe%20Bryant%20Head%20Shot%202017%20%282%29.jpg" align="right">
+<img src="https://github.com/jfrobinson/jfrobinson.github.io/blob/master/img/Hao%20Chen.jpg" align="right">
 
 ## Hao Chen, PhD (Postdoctoral Fellow)
 Dr. Chen is a recent PhD graduate from the UC Davis (Toxicology) where he studied...
