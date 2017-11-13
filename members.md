@@ -23,9 +23,10 @@ Kenisha is a Master's student at San Francisco State University (SFSU; Cell and 
 #### Contact [Kenisha](kenisha.williamspuckett@ucsf.edu)
 #### [LinkedIn](https://www.linkedin.com/in/kenisha-williams-puckett-29a08715)
 
+<img src="https://github.com/jfrobinson/jfrobinson.github.io/blob/master/img/Nikita%20Iyer.jpg" align="right">
+
 ## Nikita Iyer (Volunteer)
-Nikita is a rising junior at UC Berkeley (Major: Immunology & Pathogenesis), who hopes to acquire a PhD in the biomedical sciences.   
-She is particularly interested in studying the links between risk factors, *e.g.*, infection, environmental, nutritional, and human developmental disease.
+Nikita is a rising junior at UC Berkeley (Major: Immunology & Pathogenesis), who will pursue a PhD in the biomedical sciences. She is particularly interested in studying the links between risk factors, *e.g.*, infection, environmental, nutritional, and human developmental disease.
 #### Contact [Nikita](nikita.iyer@ucsf.edu)
 #### [LinkedIn](https://www.linkedin.com/in/nikita-iyer-8234a975)
 
