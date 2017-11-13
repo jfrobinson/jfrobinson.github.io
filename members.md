@@ -14,7 +14,7 @@ Contact [Dr. Robinson](joshua.robinson@ucsf.edu)
 <img src="https://github.com/jfrobinson/jfrobinson.github.io/blob/master/img/Hao%20Chen.jpg" align="right">
 
 ## Hao Chen, PhD (Postdoctoral Fellow)
-Dr. Chen is a recent PhD graduate from the UC Davis (Toxicology) where he studied...
+Dr. Chen is a 1st year Postdoctoral Trainee and recent PhD graduate from UC Davis (Pharmacology and Toxicology).  At UCSF, he is gaining expertise in human developmental biology and proteomics in relation to the field of developmental toxicology. He is currently involved in multiple studies which use human cellular models to characterize the effects of environmental chemical exposures, *e.g.*, flame retardants, pesticides,  on human placental and neuronal devleopment. 
 Contact [Dr. Chen](hao.chen@ucsf.edu);
 [LinkedIn](https://www.linkedin.com/in/haochen3)
 
