@@ -29,6 +29,3 @@ Kenisha is a Master's student at San Francisco State University (SFSU; Cell and 
 Nikita is a rising junior at UC Berkeley (Major: Immunology & Pathogenesis), who will pursue a PhD in the biomedical sciences. She is particularly interested in studying the links between risk factors, *e.g.*, infection, environmental, nutritional, and human developmental disease.
 #### Contact [Nikita](nikita.iyer@ucsf.edu)
 #### [LinkedIn](https://www.linkedin.com/in/nikita-iyer-8234a975)
-
-## Christopher Yan
-I'm Christopher Yan. I was drafted by the Golden State Warriors but I made Klay Thompson look bad. I do science now.
