@@ -13,18 +13,19 @@ During pregnancy, humans are exposed to thousands of unique environmental chemic
 As alternatives to classical animal testing, we aim to establish relevant models that represent aspects of human pregnancy that can be used to screen and characterize environmental compounds for their ability to induce developmental toxicity. Models currently being developed in our laboratory include: 1) [a multi-stage human embryonic stem cell model of neurogenesis](https://www.ncbi.nlm.nih.gov/pubmed/26827931); 2) [a human primary villous cytotrophoblast model of placentation](https://www.ncbi.nlm.nih.gov/pubmed/28323933); and 3) [a rodent whole embryo culture model of early organogenesis](https://www.ncbi.nlm.nih.gov/pubmed/22262562). 
 
 ### Developing strategies to integrate diverse toxicogenomic data. 
-To examine the underlying molecular relationships between environmental chemical exposures and developmental disease, we employ global, transcriptomic, epigenomic, proteomic, metabolomic analyses. These data may be used to determine potential mechanisms of action and define common modes of toxicity across classes of hazardous compounds.    
-
-We are developing approaches to integrate toxicogenomic data to identify 1) candidate biomarkers for toxicological screening for [developmental toxicity](https://www.ncbi.nlm.nih.gov/pubmed/26827931) and 2)  molecular signatures linked with specific chemical exposures, *e.g.*, [methylmercury](https://www.ncbi.nlm.nih.gov/pubmed/21664453), [phthalates](https://www.ncbi.nlm.nih.gov/pubmed/22841773).  
+To examine the underlying molecular relationships between environmental chemical exposures and developmental disease, we employ global, transcriptomic, epigenomic, proteomic, metabolomic analyses. These data may be used to determine potential mechanisms of action and define common modes of toxicity across classes of hazardous compounds. We are developing approaches to integrate toxicogenomic data to facilitate the identification of 1) candidate biomarkers for toxicological screening for [developmental toxicity](https://www.ncbi.nlm.nih.gov/pubmed/26827931) and 2)  chemical-specific molecular signatures linked., *e.g.*, [methylmercury](https://www.ncbi.nlm.nih.gov/pubmed/21664453), [phthalates](https://www.ncbi.nlm.nih.gov/pubmed/22841773).  
 
 ### Environmental exposures and placental disease. 
-Utilizing human placental *in vitro* model systems, we are investigating the mechanistic links between environmental exposures and placental disease. In collaborations with Dr. Susan Fisher's laboratory, we are studying 
+Utilizing human placental *in vitro* model systems, we are investigating the mechanistic links between environmental exposures and placental disease. We study how environmental exposures may alter specific cell placental populations and how these interactions may result in placental disease. 
+
+### Environmental exposures and susceptibility to infectious disease.
+Pesticides are commonly mass applied in communities to eliminate disease vectors, *e.g.*, mosquitoes, which are involved in the transmission of pathogens and parasites in human populations. We are interested in the potential for these compounds to cause adverse developmental consequences and their role in 
 
 ### Human biomarkers of environmental exposures during human pregnancy.
-We aim to extend our knowledge of relationships discovered in controlled experiments, by evalauting candidate molecular and mophological correlates identified in experimentally controlled *in vitro* or *in vivo*
+We aim to extend our knowledge of relationships discovered iidentified in experimentally controlled *in vitro* or *in vivo*, by evalauting candidate molecular and mophological correlates 
 
-### Human xenobiotic metabolism and 
-We 
+### Human xenobiotic metabolism and susceptibility to chemical exposures during pregnancy.
+
 
 ## Select Publications
 
