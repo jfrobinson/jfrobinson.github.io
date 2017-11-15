@@ -17,6 +17,7 @@ To examine the underlying molecular relationships between environmental chemical
 Utilizing human placental *in vitro* model systems, we are investigating the mechanistic links between environmental exposures and placental disease. We study how environmental exposures may alter specific cell placental populations and how these interactions may result in placental adverse outcomes. 
 
 <img src="https://github.com/jfrobinson/jfrobinson.github.io/blob/master/img/plane%20pesticide%20spray.jpg" width="225" height="150" align="right">
+
 ### Pesticide exposures and susceptibility to infectious disease.
 Pesticides are mass applied in communities to eliminate disease vectors, *e.g.*, mosquitoes, to reduce the transmission of pathogens and parasites in the human populations. We are interested in the potential for these compounds to cause adverse developmental consequences and their role in infectious disease susceptibility. In a collaboration with Dr. Stephanie Gaw, we are studying potential interactions of commonly used organophosphates and carbamates and Zika-related pathologies. 
 
