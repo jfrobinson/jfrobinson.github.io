@@ -17,7 +17,7 @@ Dr. Chen is a 1st year Postdoctoral Trainee and recent PhD graduate from UC Davi
 Contact [Dr. Chen](hao.chen@ucsf.edu)
 ##### [LinkedIn](https://www.linkedin.com/in/haochen3), [Research Gate](https://www.researchgate.net/profile/Hao_Chen84)
 
-<img src="https://github.com/jfrobinson/jfrobinson.github.io/blob/master/img/Kenisha%20Puckett.jpeg" width="150" height="150" align="right">
+<img src="https://github.com/jfrobinson/jfrobinson.github.io/blob/master/img/Kenisha%20Puckett.jpeg" width="153.18" height="188.64" align="right">
 
 ## Kenisha Williams Puckett (Master's Student)
 Kenisha is a Master's student at San Francisco State University (SFSU; Cell and Molecular Biology) who is conducting her research project at UCSF (working since September, 2016). Her previous training includes a BS in Cell Biology (UC Riverside) and over 2+ years experience working in basic research. For her Master's project, Kenisha is examining how a specific class of flame retardants, polybrominated diphenyl ethers (PBDEs), found in consumer products and ubiquitous environmental contaminants, may contribute to human placental diseases such as preeclampsia and pre-term birth. Using a primary human cytotrophoblast model, she is studying the effects of PBDEs on the ability of CTBs to invade and migrate―critical aspects of trophoblast development during pregnancy. In the near future, Kenisha plans to obtain a PhD at an research-intensive university in stem cell/reproductive biology.
