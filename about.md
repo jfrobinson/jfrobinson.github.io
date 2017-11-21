@@ -18,8 +18,8 @@ We study how environmental exposures may alter placental development and underli
 
 <img src="https://github.com/jfrobinson/jfrobinson.github.io/blob/master/img/plane%20pesticide%20spray.jpg" width="225" height="150" align="right">
 
-### Pesticide exposures and susceptibility to infectious disease.
-Pesticides are used at high levels in communities to eliminate disease vectors, *e.g.*, mosquitoes, to reduce the transmission of pathogens and parasites in human populations. We are interested in the potential for these compounds to cause adverse developmental consequences and their role in infectious disease susceptibility. In a collaboration with Dr. Stephanie Gaw, we are studying potential interactions linking pesticide exposures, Zika-disease transmission, and related disease pathologies. 
+### Pesticide exposures and sensitivity to infectious disease.
+Pesticides are used at high levels in communities to eliminate disease vectors, *e.g.*, mosquitoes, to reduce the transmission of pathogens and parasites in human populations. We are interested in the potential for these compounds to cause adverse developmental consequences and their role in infectious disease susceptibility. In a collaboration with [Dr. Stephanie Gaw](http://profiles.ucsf.edu/stephanie.valderramos), we are studying potential interactions linking pesticide exposures, Zika-disease transmission, and related disease pathologies. 
 
 ### Human biomarkers of environmental exposures during human pregnancy.
 We aim to extend our knowledge of relationships discovered iidentified in experimentally controlled *in vitro* or *in vivo*, by evalauting candidate molecular and mophological correlates 
